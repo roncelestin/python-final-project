@@ -1,7 +1,5 @@
 # Inventory Management System
 
-#### Video Demo: https://youtube.com/PASTE-YOUR-UNLISTED-VIDEO-LINK-HERE
-
 #### Description:
 
 The Inventory Management System is a Python-based application created as a final project for Unit 7. The goal of this project is to demonstrate the ability to design and implement a complete Python program that applies core programming concepts such as control structures, object-oriented programming, file handling, error handling, and the use of external libraries.
